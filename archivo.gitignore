@@ -1,0 +1,17 @@
+# Archivos de compilación
+*.class
+bin/
+
+# Archivos de Eclipse
+.settings/
+.project
+.classpath
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos del sistema
+.DS_Store
